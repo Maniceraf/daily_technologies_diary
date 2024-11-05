@@ -35,3 +35,44 @@
         - Signals là một trong những cải tiến mới trong Angular, giúp lập trình viên dễ dàng quản lý trạng thái và tương tác giữa các component một cách hiệu quả và rõ ràng hơn.
 
 ## Làm sao để xác định active trong router link:
+
+Để xác định và hiển thị trạng thái active cho một link trong Angular router, bạn có thể sử dụng directive routerLinkActive. Directive này cho phép bạn áp dụng một class hoặc một style cho link khi route tương ứng đang được kích hoạt.
+
+Cách sử dụng routerLinkActive
+    - Cấu hình Router: Đầu tiên, bạn cần có một cấu hình router với các route đã định nghĩa.
+    - Sử dụng routerLink và routerLinkActive: Trong template của component, bạn sử dụng directive routerLink để chỉ định link đến route và routerLinkActive để chỉ định class sẽ được áp dụng khi link đang được kích hoạt.
+
+Ví dụ:
+
+```html
+<nav>
+  <a routerLink="/home" routerLinkActive="active">Home</a>
+  <a routerLink="/about" routerLinkActive="active">About</a>
+  <a routerLink="/contact" routerLinkActive="active">Contact</a>
+</nav>
+```
+
+Giải thích:
+    - routerLink: Định nghĩa đường dẫn đến route mà bạn muốn điều hướng tới.
+    - routerLinkActive="active": Khi route tương ứng với link được kích hoạt (active), class active sẽ được thêm vào element <a> đó. Bạn có thể tùy chỉnh tên class này theo ý muốn.
+
+Để thấy được hiệu ứng của routerLinkActive, bạn có thể thêm một số CSS như sau:
+
+```css
+.active {
+  font-weight: bold;
+  color: blue;
+}
+```
+
+Sử dụng Nhiều Class
+Nếu bạn muốn áp dụng nhiều class khi link được kích hoạt, bạn có thể làm như sau:
+
+```html
+<a routerLink="/home" routerLinkActive="active highlighted">Home</a>
+```
+
+Trong ví dụ này, khi link đến /home được kích hoạt, cả hai class active và highlighted sẽ được thêm vào.
+
+Kết hợp với Router Events
+Ngoài việc sử dụng routerLinkActive, bạn cũng có thể lắng nghe các sự kiện router để thực hiện các hành động phức tạp hơn, nhưng trong hầu hết các trường hợp, routerLinkActive đã đủ để quản lý trạng thái active cho các link trong navigation.
