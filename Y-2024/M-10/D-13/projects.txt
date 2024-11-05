@@ -1,45 +1,45 @@
-https://github.dev/Whisparr/Whisparr/blob/1291e4852ecb5fb5c47620b0be3ba93866f9bebd/src/Whisparr.Http/Middleware/BufferingMiddleware.cs#L20#L28
+https://github.dev/Whisparr/Whisparr
 
-https://github.dev/LeonKou/NetPro/blob/f87cbb455d83e0eaab6aa70f72221d33a49b9941/src/Library/NetPro.Web.Api/Helper/ActionFilterHelper.cs#L27#L35
+https://github.dev/LeonKou/NetPro
 
-https://github.dev/rogerfar/rdt-client/blob/0a36a3fd204d168f84fbbebe4180a7b82d4c5bf0/server/RdtClient.Service/Middleware/RequestLoggingMiddleware.cs#L49#L59
+https://github.dev/rogerfar/rdt-client
 
-https://github.dev/Coldairarrow/Colder.Admin.AntdVue/blob/42631fcbe0d8a1355642004f1421f8ee586357e2/src/Coldairarrow.Api/Middlewares/RequestBodyMiddleware.cs#L18#L28
+https://github.dev/Coldairarrow/Colder.Admin.AntdVue
 
-https://github.dev/lysilver/KopSoftWms/blob/b54f8bd6190c4a2244b37bea6475faec197395cd/src/NetCoreApp/Middlewares/ExecuteTimeMiddleware.cs#L32#L39
+https://github.dev/lysilver/KopSoftWms
 
-https://github.dev/proudmonkey/RESTApiResponseWrapper.Core/blob/135f5f2aead831efab82340cd1a9c60b298765b9/VMD.RESTApiResponseWrapper.Core/APIResponseMiddleware.cs#L81#L92
+https://github.dev/proudmonkey/RESTApiResponseWrapper.Core
 
-https://github.dev/rivantsov/vita/blob/e75092425283fe396ef25b94e01b6959dd04fcbb/src/1.Framework/Vita.Web/VitaWebMiddleware.cs#L124#L135
+https://github.dev/rivantsov/vita
 
-https://github.dev/ElmahCore/ElmahCore/blob/aa8a6734b406f654706811810b600255686f5523/ElmahCore.Mvc/ErrorLogMiddleware.cs#L199#L211
+https://github.dev/ElmahCore/ElmahCore
 
-https://github.dev/evan-choi/MiniMe/blob/f64d8eabffa14f73f91bc822b4470273864e13cb/MiniMe.Core/AspNetCore/Middleswares/BodyBufferingMiddleware.cs#L12#L17
+https://github.dev/evan-choi/MiniMe
 
-https://github.dev/zhenlei520/System.Extension.Core/blob/21ef46f04e98c00fa4ee3752b90944b0f6fa5272/src/Web/AspNetCore/src/EInfrastructure.Core.AspNetCore/HttpRequest.cs#L113#L126
+https://github.dev/zhenlei520/System.Extension.Core
 
-https://github.dev/zhenlei520/System.Extension.Core/blob/21ef46f04e98c00fa4ee3752b90944b0f6fa5272/src/Web/AspNetCore/src/EInfrastructure.Core.AspNetCore/HttpRequest.cs#L113#L126
+https://github.dev/zhenlei520/System.Extension.Core
 
-https://github.dev/bing-framework/Bing.NetCore/blob/98c53b9f4c80249179947fff2b7bc92d174a3656/framework/src/Bing.AspNetCore/Bing/AspNetCore/Logs/RequestResponseLoggerMiddleware.cs#L177#L190
+https://github.dev/bing-framework/Bing.NetCore
 
-https://github.dev/marcominerva/TinyHelpers/blob/ea201318ce417138e16162f5a70f88d53ba5901e/src/TinyHelpers.AspNetCore/Middlewares/EnableRequestRewindMiddleware.cs#L14#L18
+https://github.dev/marcominerva/TinyHelpers
 
-https://github.dev/markvincze/Stubbery/blob/dda508964b8e5904a6111b81a9b89c9a660b2d27/src/Stubbery/RequestMatching/Preconditions/BodyCondition.cs#L18#L32
+https://github.dev/markvincze/Stubbery
 
-https://github.dev/Altinn/altinn-studio/blob/cf280a20ccc8b2987e1a4cb4f4cf3918feb82a43/backend/src/Designer/Filters/UseSystemTextJsonAttribute.cs#L80#L94
+https://github.dev/Altinn/altinn-studio
 
-https://github.dev/Macross-Software/core/blob/6c650854a72533fa25d30e4c0ff27374275134f1/ClassLibraries/Macross.Windows.Debugging/Demo/Middleware/RequestTraceMiddleware.cs#L35#L49
+https://github.dev/Macross-Software
 
-https://github.dev/Azure/azure-webjobs-sdk-extensions/blob/2ca41057bb8a7752cfb4e311c287a65eb8fedfc5/src/WebJobs.Extensions.Http/HttpTriggerAttributeBindingProvider.cs#L514#L529
+https://github.dev/Azure/azure-webjobs-sdk-extensions
 
-https://github.dev/natenho/Mockaco/blob/cd870c5c105e4e5070a87849027bd5c51f770045/src/Mockaco.AspNetCore/Extensions/HttpRequestExtensions.cs#L96#L111
+https://github.dev/natenho/Mockaco
 
-https://github.dev/proudmonkey/AutoWrapper/blob/529db8d18a1b244c2b6ab7862f0df55805c2e66c/src/AutoWrapper/AutoWrapperMembers.cs#L42#L58
+https://github.dev/proudmonkey/AutoWrapper
 
-https://github.dev/mixcore/mix.core/blob/85331a72a3ba33a726519556d4b9d9d1539e0680/src/Mix.Cms.Lib/Attributes/MixAuthorizeAttribute.cs#L37#L53
+https://github.dev/mixcore/mix.core
 
-https://github.dev/hlaueriksson/CommandQuery/blob/7ed31318ee2b23f8c7477faf8f53aca161c8dd9e/src/CommandQuery.GoogleCloudFunctions/Internal/HttpExtensions.cs#L16#L34
+https://github.dev/hlaueriksson/CommandQuery
 
-https://github.dev/exceptionnotfound/AspNetCoreRequestResponseMiddlewareDemo/blob/93661f2c5b7e5de6139008832057502267ca9161/RequestResponseLoggingDemo.Web/Middleware/RequestResponseLoggingMiddleware.cs#L46#L66
+https://github.dev/exceptionnotfound/AspNetCoreRequestResponseMiddlewareDemo
 
-https://github.dev/zhangzihan/nactivity/blob/8cc1362c282e272ab024c5b7c35d054728e2e1f7/NActiviti/Sys.Bpm.Rest.API/api/ErrorHandlingMiddleware.cs#L55#L77
+https://github.dev/zhangzihan/nactivity
