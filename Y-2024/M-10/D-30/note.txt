@@ -1,3 +1,3 @@
 https://github.com/junkai-li/NetCoreKevin
 
-https://github.dev/CuteLeon/HackSystem/blob/eb0265e6377c75459b7de9a12d242c616662f72b/src/HackSystem.WebAPI.Authentication/Services/TokenGenerator.cs#L24#L37
+https://github.dev/CuteLeon/HackSystem
